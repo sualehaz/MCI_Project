@@ -9,16 +9,16 @@ int in3 = 35;    // IN3 pin (PC6) for motor B direction
 int in4 = 34;    // IN4 pin (PC7) for motor B direction
 
 //ultrasonic1 left
-int trig1=
-int echo1=
+int trig1=9
+int echo1=8
 
 //ultrasonic2 front
-int trig2=
-int echo2=
+int trig2=6
+int echo2=5
 
 //ultrasonic3 right
-int trig3=
-int echo3=
+int trig3=29
+int echo3=28
 
 void setup() {
   Serial.begin(115200); // serial initialization 
