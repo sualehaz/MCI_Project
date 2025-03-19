@@ -4,7 +4,7 @@ const int echo_left = 8; //PA5
 const int echo_right = 28; //PE2
 
 // initializing the trig pins for Hc-SR04
-const int trig_front = 6; //PE5
+const int trig_front = 27; //PE1
 const int trig_left = 9; //PA6
 const int trig_right = 29; //PE3
 
